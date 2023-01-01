@@ -1,0 +1,2 @@
+# MySQL-Practise
+MySQL learnings
